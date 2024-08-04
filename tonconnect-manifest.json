@@ -1,5 +1,6 @@
 {
-  "url": "https://ecoheroecha.netlify.app",
+  "url": "https://ecohero.tech",
   "name": "EcoHero",
-  "iconUrl": "https://ecoheroecha.netlify.app/menu-page/logo.png"
+  "iconUrl": "https://ecohero.tech/menu-page/logo.png",
+  "permissions": ["ton_sendTransaction"]
 }
